@@ -1,0 +1,1523 @@
+.header.header {
+  left: 0;
+  right: 0;
+  top: 0;
+  width: initial;
+  background-color: initial;
+}
+.home {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baseButton.baseButton.baseButton.baseButton {
+  background-image: linear-gradient(214.7deg, #fdae8fff 0%, #fd1c68ff 100%);
+}
+.label {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baseButton2.baseButton2.baseButton2 {
+  background-color: initial;
+  background-image: linear-gradient(211deg, #fdae8fff 0%, #fd1c68ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.rocketLaunch2.rocketLaunch2 {
+  width: 24px;
+  height: 24px;
+}
+.rocketLaunch.rocketLaunch {
+  width: 24px;
+  height: 24px;
+}
+.rocketLaunch {
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.label2 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.label3 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.saly442.saly442 {
+  left: calc(50% - -65px);
+  top: calc(50% - -144px);
+  width: 308px;
+  height: 308px;
+  transform: translate(-50%, -50%);
+}
+.saly44.saly44 {
+  background-image:/* webpackIgnore: true */ url('assets/saly442.png');
+}
+.saly12.saly12 {
+  transform-origin: top left;
+  left: calc(50% - -179px);
+  top: calc(50% - 122.9998px);
+  width: 350px;
+  height: 350px;
+  transform: matrix(0.9424, -0.3345, 0.3345, 0.9424, 0, 0) translate(-50%, -50%);
+}
+.saly1.saly1 {
+  background-image:/* webpackIgnore: true */ url('assets/saly12.png');
+}
+.saly432.saly432 {
+  left: calc(50% - 135px);
+  top: calc(50% - 127px);
+  width: 286px;
+  height: 286px;
+  transform: translate(-50%, -50%);
+}
+.saly43.saly43 {
+  background-image:/* webpackIgnore: true */ url('assets/saly432.png');
+}
+._11._11._11 {
+  background-image:/* webpackIgnore: true */ url('assets/_113.png');
+}
+.avatar.avatar.avatar {
+  background-color: #fff;
+  background-image: initial;
+  background-position: initial;
+  background-repeat: initial;
+  background-size: auto;
+}
+.metaverse {
+  color: #fff;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.ownedByJohnDoe {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label4 {
+  color: #8393af;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._372 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._50ETH {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label6 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._112._112._112 {
+  background-image:/* webpackIgnore: true */ url('assets/_114.png');
+}
+.avatar2.avatar2.avatar2 {
+  background-color: #fff;
+  background-image: initial;
+  background-position: initial;
+  background-repeat: initial;
+  background-size: auto;
+}
+.metaverse2 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.ownedByJohnDoe2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 16px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label7 {
+  color: #8393af;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label8 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._3722 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._50ETH2 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label9 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._113._113._113 {
+  background-image:/* webpackIgnore: true */ url('assets/_115.png');
+}
+.avatar3.avatar3.avatar3 {
+  background-color: #fff;
+  background-image: initial;
+  background-position: initial;
+  background-repeat: initial;
+  background-size: auto;
+}
+.metaverse3 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.ownedByJohnDoe3 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 16px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label10 {
+  color: #8393af;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label11 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._3723 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._50ETH3 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label12 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._114._114._114 {
+  background-image:/* webpackIgnore: true */ url('assets/_116.png');
+}
+.avatar4.avatar4.avatar4 {
+  background-color: #fff;
+  background-image: initial;
+  background-position: initial;
+  background-repeat: initial;
+  background-size: auto;
+}
+.metaverse4 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.ownedByJohnDoe4 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper4 {
+  font-size: 16px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label13 {
+  color: #8393af;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label14 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._3724 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._50ETH4 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock15 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock16 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label15 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._115._115._115 {
+  background-image:/* webpackIgnore: true */ url('assets/_117.png');
+}
+.avatar5.avatar5.avatar5 {
+  background-color: #fff;
+  background-image: initial;
+  background-position: initial;
+  background-repeat: initial;
+  background-size: auto;
+}
+.metaverse5 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.ownedByJohnDoe5 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper5 {
+  font-size: 16px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label16 {
+  color: #8393af;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label17 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._3725 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock17 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock18 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._50ETH5 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock19 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock20 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label18 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._116._116._116 {
+  background-image:/* webpackIgnore: true */ url('assets/_118.png');
+}
+.avatar6.avatar6.avatar6 {
+  background-color: #fff;
+  background-image: initial;
+  background-position: initial;
+  background-repeat: initial;
+  background-size: auto;
+}
+.ownedByJohnDoe6 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.labelWrapper6 {
+  font-size: 16px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label19 {
+  color: #8393af;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label20 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._3726 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock21 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock22 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._50ETH6 {
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock23 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock24 {
+  margin-top: 16px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label21 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baseButton3.baseButton3.baseButton3 {
+  background-color: initial;
+  background-image: linear-gradient(214.3deg, #fdae8fff 0%, #fd1c68ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.arrowsCounterClockwise2.arrowsCounterClockwise2 {
+  width: 24px;
+  height: 24px;
+}
+.arrowsCounterClockwise.arrowsCounterClockwise {
+  width: 24px;
+  height: 24px;
+}
+.arrowsCounterClockwise {
+  width: 24px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.label22 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baseButton4.baseButton4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 750px;
+  background-color: initial;
+  background-image: linear-gradient(244.8deg, #fdae8fff 0%, #fd1c68ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.label23 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 800;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.plus2.plus2 {
+  width: 24px;
+  height: 24px;
+}
+.plus.plus {
+  width: 24px;
+  height: 24px;
+}
+.plus {
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.button.button {
+  position: absolute;
+  left: 260px;
+  top: 168px;
+}
+.label24 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baseButton5.baseButton5 {
+  position: absolute;
+  left: 34.2667%;
+  right: 34.1333%;
+  top: 86.528%;
+  bottom: 6.962%;
+  background-color: initial;
+  background-image: linear-gradient(213.9deg, #fdae8fff 0%, #fd1c68ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.label25 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baseButton6.baseButton6 {
+  position: absolute;
+  left: 21.0667%;
+  right: 17.8667%;
+  top: 41.1392%;
+  bottom: 46.2929%;
+  width: initial;
+  height: initial;
+  background-color: initial;
+  background-image: linear-gradient(213.9deg, #fdae8fff 0%, #fd1c68ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.label26 {
+  color: #fff;
+  font-size: 32px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  background-color: #030812;
+  overflow: hidden;
+}
+.bG {
+  position: absolute;
+  left: 937.019px;
+  top: 4629px;
+  width: 1391.8187px;
+  height: 1015.0005px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.bG2 {
+  position: absolute;
+  left: 1175px;
+  top: -191px;
+  width: 886px;
+  height: 886px;
+  overflow: visible;
+  filter: blur(60px);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.bG3 {
+  position: absolute;
+  left: -277px;
+  top: 915px;
+  width: 886px;
+  height: 886px;
+  overflow: visible;
+  filter: blur(60px);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.bG4 {
+  position: absolute;
+  left: 316.1226px;
+  top: 2648px;
+  width: 1288.2141px;
+  height: 1022.0001px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse15 {
+  position: absolute;
+  left: 386px;
+  top: 32px;
+  width: 42px;
+  height: 42px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse18 {
+  position: absolute;
+  left: 404px;
+  top: 43px;
+  width: 16.7744px;
+  height: 16.5073px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse17 {
+  position: absolute;
+  left: 402px;
+  top: 45px;
+  width: 17px;
+  height: 18.3631px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.p {
+  transform-origin: top left;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Raleway, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 400px;
+  top: 42px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.puzzleMint {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 445px;
+  top: 35px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1 {
+  position: absolute;
+  left: 271px;
+  top: 685px;
+  width: 1300px;
+  height: 1300px;
+  align-items: flex-start;
+  background-color: #ad00d2;
+  overflow: hidden;
+}
+.gridVisualization {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1300px;
+  height: 1300px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+._10pxUniformGrid {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1300px;
+  height: 1300px;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.bG5 {
+  position: absolute;
+  left: 1112px;
+  top: 483px;
+  width: 886px;
+  height: 886px;
+  overflow: visible;
+  filter: blur(60px);
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.hero {
+  position: absolute;
+  left: 0;
+  top: 100px;
+  width: 1920px;
+  height: 600px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.content {
+  position: absolute;
+  left: 375px;
+  top: 50%;
+  width: 470px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  transform: translateY(-50%);
+}
+._1PerPixelOwnAPieceOfWeb3Histor {
+  width: 694px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock25 {
+  color: #fff;
+  font-size: 48px;
+  line-height: 64px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.textBlock26 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 48px;
+  line-height: 64px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.nFTIsTheWorldSFirstAndLargestN {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.buttons {
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: center;
+  gap: 16px;
+}
+.image {
+  position: absolute;
+  right: 330px;
+  top: 50%;
+  width: 670px;
+  height: 570px;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.vector {
+  position: absolute;
+  left: calc(50% - -127.8183px);
+  top: calc(50% - 282.4416px);
+  width: 659.9461px;
+  height: 639.8796px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse {
+  position: absolute;
+  left: calc(50% - 44px);
+  top: calc(50% - 249px);
+  width: 42px;
+  height: 42px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse2 {
+  position: absolute;
+  left: calc(50% - -271px);
+  top: calc(50% - -191px);
+  width: 32px;
+  height: 32px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse3 {
+  position: absolute;
+  left: calc(50% - 299px);
+  top: calc(50% - 138px);
+  width: 22px;
+  height: 22px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse4 {
+  position: absolute;
+  left: calc(50% - 314px);
+  top: calc(50% - -224px);
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.art {
+  position: absolute;
+  left: 792px;
+  top: 836px;
+  width: 179px;
+  height: 179px;
+  background-image:/* webpackIgnore: true */ url('assets/art.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.art2 {
+  position: absolute;
+  left: 972px;
+  top: 836px;
+  width: 99px;
+  height: 109px;
+}
+.art3 {
+  position: absolute;
+  left: 972px;
+  top: 946px;
+  width: 389px;
+  height: 389px;
+  background-image:/* webpackIgnore: true */ url('assets/art2.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image2 {
+  position: absolute;
+  left: 672px;
+  top: 1016px;
+  width: 299px;
+  height: 159px;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle14 {
+  position: absolute;
+  left: 45.9375%;
+  right: 49.4271%;
+  top: 32.0436%;
+  bottom: 65.8038%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle14.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle12 {
+  position: absolute;
+  left: 39.1667%;
+  right: 54.1146%;
+  top: 32.0436%;
+  bottom: 64.9864%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle12.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unsplash3MAmj1ZKSZA {
+  position: absolute;
+  left: 1072px;
+  top: 736px;
+  width: 219px;
+  height: 209px;
+  background-image:/* webpackIgnore: true */ url('assets/unsplash3MAmj1ZKSZA.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle8 {
+  position: absolute;
+  left: 552px;
+  top: 756px;
+  width: 239px;
+  height: 259px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle8.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.art4 {
+  position: absolute;
+  left: 562px;
+  top: 1176px;
+  width: 189px;
+  height: 189px;
+  background-image:/* webpackIgnore: true */ url('assets/art3.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle11 {
+  opacity: 0.8;
+  position: absolute;
+  left: 45.9375%;
+  right: 47.8646%;
+  top: 38.5831%;
+  bottom: 59.2643%;
+  background-color: #fd5e79;
+}
+.rectangle15 {
+  opacity: 0.8;
+  position: absolute;
+  left: 47.5%;
+  right: 49.4271%;
+  top: 37.7657%;
+  bottom: 61.7166%;
+  border-radius: 4px;
+  background-color: #fd5e79;
+}
+.label27 {
+  color: #fff;
+  font-size: 12px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 919px;
+  right: 956px;
+  top: 1381px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.liveAuctions {
+  position: absolute;
+  left: 0;
+  top: 2041px;
+  width: 1920px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 20px;
+  overflow: hidden;
+}
+.title {
+  width: 1170px;
+  height: min-content;
+}
+.myNFTs {
+  color: #fff;
+  font-size: 64px;
+  line-height: 88px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.content2 {
+  width: 1920px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 56px;
+  padding: 0 375px;
+  overflow: hidden;
+}
+.slider {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.row {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 30px;
+}
+.row2 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 30px;
+}
+.rectangle9 {
+  position: absolute;
+  left: 14.1667%;
+  right: 73.3854%;
+  top: 39.1281%;
+  bottom: 55.7221%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle9.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.art5 {
+  position: absolute;
+  left: 1312px;
+  top: 1546px;
+  width: 189px;
+  height: 189px;
+  background-image:/* webpackIgnore: true */ url('assets/art4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame3 {
+  position: absolute;
+  left: 592px;
+  top: 650px;
+  width: 750px;
+  height: 1106px;
+  align-items: flex-start;
+  border-radius: 16px;
+  background-color: #000;
+  overflow: hidden;
+}
+.bG6 {
+  position: absolute;
+  left: -277px;
+  top: 915px;
+  width: 886px;
+  height: 886px;
+  overflow: visible;
+  filter: blur(60px);
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.leftIcon {
+  position: absolute;
+  left: 267px;
+  top: 24px;
+  width: min-content;
+  height: min-content;
+  padding: 0 8px 0 0;
+  overflow: hidden;
+}
+.youHaveSelectedA240x260PixelSe {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 182px;
+  top: 105px;
+  width: 386px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle82 {
+  position: absolute;
+  left: 131px;
+  top: 280px;
+  width: 489px;
+  height: 489px;
+  outline: solid 1px #c205d8;
+  outline-offset: -1px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle82.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tiltle {
+  color: #fff;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 70px;
+  top: 810px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.link {
+  color: #fff;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 864px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.metaBoy {
+  color: #fff;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 166px;
+  top: 810px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.metaboyNetwork {
+  color: #fff;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 166px;
+  top: 864px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle16 {
+  position: absolute;
+  left: 153px;
+  top: 796px;
+  width: 467px;
+  height: 50px;
+  outline: solid 1px #ad00d2;
+  outline-offset: -1px;
+}
+.rectangle17 {
+  position: absolute;
+  left: 153px;
+  top: 850px;
+  width: 467px;
+  height: 50px;
+  outline: solid 1px #ad00d2;
+  outline-offset: -1px;
+}

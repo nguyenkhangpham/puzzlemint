@@ -1,0 +1,66 @@
+.plus2.plus2 {
+  width: 24px;
+  height: 24px;
+}
+.plus.plus {
+  width: 24px;
+  height: 24px;
+}
+.plus {
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.caretDown2.caretDown2 {
+  width: 24px;
+  height: 24px;
+}
+.caretDown.caretDown {
+  width: 24px;
+  height: 24px;
+}
+.caretDown {
+  width: 24px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  padding: 21px 56px;
+  border-radius: 16px;
+  background-color: #202632;
+  overflow: hidden;
+}
+.leftIcon {
+  width: min-content;
+  height: min-content;
+  padding: 0 8px 0 0;
+  overflow: hidden;
+}
+.label {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Urbanist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rightIcon {
+  width: min-content;
+  height: min-content;
+  padding: 0 0 0 8px;
+  overflow: hidden;
+}

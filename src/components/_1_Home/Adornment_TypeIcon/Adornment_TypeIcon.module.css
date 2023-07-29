@@ -1,0 +1,23 @@
+.user2.user2 {
+  width: 20px;
+  height: 20px;
+}
+.user.user {
+  width: 20px;
+  height: 20px;
+}
+.user {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  width: 40px;
+  height: 40px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+}

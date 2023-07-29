@@ -1,0 +1,11 @@
+.baseButton.baseButton {
+  align-self: flex-start;
+  outline: solid 1px #fff;
+  outline-offset: -1px;
+  background-color: initial;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}

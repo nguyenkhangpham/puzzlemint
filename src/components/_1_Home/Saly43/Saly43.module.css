@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: -10498px;
+  top: 12423px;
+  width: 2160px;
+  height: 2160px;
+  align-items: flex-start;
+}
+.saly43 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/saly43.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

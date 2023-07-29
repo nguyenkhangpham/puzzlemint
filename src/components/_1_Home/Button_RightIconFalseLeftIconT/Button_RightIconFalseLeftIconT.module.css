@@ -1,0 +1,9 @@
+.baseButton.baseButton {
+  align-self: flex-start;
+  background-color: #dc5683;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
